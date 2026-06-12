@@ -5,4 +5,3 @@ const uniqueNumbers = numbers.filter((num, index) => {
 });
 
 console.log(`Unique Numbers - ${uniqueNumbers}`);
-
